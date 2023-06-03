@@ -1,9 +1,8 @@
 # Alessandra Maria Fantozzi Mazzola
 
-# 👋 🌍< Hello, World! >🌍 👩‍💻
+# 👋 🌍 Hello, World! 🌍 👩‍💻
 
 ```
-# Alessandra Maria Fantozzi Mazzola
 ## Full Stack Web Developer💻, Optometrist 😎, and Mother 👩🏻‍👦🏻
 
 Hello! I'm Alessandra, a passionate full stack web developer with over 15 years of experience in the optometry industry. As a mother and a professional always seeking new challenges, I decided to expand my horizons and dive into the exciting world of programming.
@@ -32,3 +31,4 @@ Hello! I'm Alessandra, a passionate full stack web developer with over 15 years 
 I'm excited for the opportunity to apply my skills and experience in Full Stack Web Development and my passion for visual health to a new professional challenge. If you're looking for someone with a unique perspective and a commitment to success, I would love to be part of your team!
 
 "Let's connect and build something amazing together!" 🚀
+```
