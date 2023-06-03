@@ -1,6 +1,6 @@
-# 																 Alessandra Maria Fantozzi Mazzola
+# Alessandra Maria Fantozzi Mazzola
 
-# 																	👋 🌍< Hello, World! >🌍 👩‍💻
+# 👋 🌍< Hello, World! >🌍 👩‍💻
 
 ```
 # Alessandra Maria Fantozzi Mazzola
