@@ -2,7 +2,7 @@
 
 # 👋 🌍 Hello, World! 🌍 👩‍💻
 
-# Full Stack Web Developer💻, Optometrist 😎, and Mother 👩🏻‍👦🏻
+### Full Stack Web Developer💻, Optometrist 😎, and Mother 👩🏻‍👦🏻
 
 -Hello! I'm Alessandra, a passionate full stack web developer with over 15 years of experience in the optometry industry. As a mother and a professional always seeking new challenges, I decided to expand my horizons and dive into the exciting world of programming.
 
