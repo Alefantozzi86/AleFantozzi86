@@ -1,4 +1,5 @@
-![Peek 2020-07-09 15-53]https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3Jmb2M1dTNuY3VzaXZwZTdkemZheTc4M2lqNDZlNmNybTEzZWJ5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wGab6Kb0kFsAJ6SJMG/giphy.gif
+![giphy](https://github.com/Alefantozzi86/AleFantozzi86/assets/119671613/4acb5c04-6a47-4f94-954c-b1650f285e3f)
+
 <h3 align="center">Software Developer </h3>
 
 
