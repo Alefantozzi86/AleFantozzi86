@@ -1,13 +1,17 @@
-![giphy](https://github.com/Alefantozzi86/AleFantozzi86/assets/119671613/4acb5c04-6a47-4f94-954c-b1650f285e3f)
-
+<<h3 align="center">
+![giphy](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjVueWswdXQ5ZjN3eTBjNmo4cmJvcDNlZTY2bGNueHZqbXJrb3pyayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lFJRF568R0m0NYSaZr/giphy.gif)
+</h3>>
+<h2 align="center">
+ Alessandra Maria Fantozzi Mazzola
+</h2>
 <h3 align="center">Software Developer </h3>
-
-
+<h4 align="center">
 ✉️ &nbsp;You can drop me an email at alefantozzi86@gmail.com 
- It will be a pleasure to talk with you!.\
+ It will be a pleasure to talk with you!.
+ </h4>
 
 ---
-# Alessandra Maria Fantozzi Mazzola
+
 ### Technical Skills:
 - Programming Languages: JavaScript, HTML, CSS.
 - Frameworks and Libraries: React.
