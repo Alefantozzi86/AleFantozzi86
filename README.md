@@ -1,20 +1,12 @@
-![Peek 2020-07-09 15-53](https://user-images.githubusercontent.com/7910856/87048834-84abea80-c1fc-11ea-9342-27b96a046ba4.gif)
-<h3 align="center">Full Stack Web Developer @ </h3>
+![Peek 2020-07-09 15-53]https://www.canva.com/design/DAFpLshFxDg/6vhM_yx8lwJ1PDrXMIBRGw/edit?utm_content=DAFpLshFxDg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+<h3 align="center">Software Developer </h3>
 
-## I little bit about me
 
-🎓 &nbsp;I'm currently working towards an AWS Solutions Architect Cert
-✉️ &nbsp;You can drop me an email at fantozziale86@gmail.com with a subject containing "GitHub: ..."! It will be a pleasure to talk with you!.\
+✉️ &nbsp;You can drop me an email at alefantozzi86@gmail.com 
+ It will be a pleasure to talk with you!.\
 
 ---
 # Alessandra Maria Fantozzi Mazzola
-
-# 👋 🌍 Hello, World! 🌍 👩‍💻
-
-### Full Stack Web Developer💻, Optometrist 😎, and Mother 👩🏻‍👦🏻
-
--Hello! I'm Alessandra, a passionate full stack web developer with over 15 years of experience in the optometry industry. As a mother and a professional always seeking new challenges, I decided to expand my horizons and dive into the exciting world of programming.
-
 ### Technical Skills:
 - Programming Languages: JavaScript, HTML, CSS.
 - Frameworks and Libraries: React.
