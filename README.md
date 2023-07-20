@@ -1,3 +1,12 @@
+![Peek 2020-07-09 15-53](https://user-images.githubusercontent.com/7910856/87048834-84abea80-c1fc-11ea-9342-27b96a046ba4.gif)
+<h3 align="center">Full Stack Web Developer @ </h3>
+
+## I little bit about me
+
+🎓 &nbsp;I'm currently working towards an AWS Solutions Architect Cert
+✉️ &nbsp;You can drop me an email at fantozziale86@gmail.com with a subject containing "GitHub: ..."! It will be a pleasure to talk with you!.\
+
+---
 # Alessandra Maria Fantozzi Mazzola
 
 # 👋 🌍 Hello, World! 🌍 👩‍💻
