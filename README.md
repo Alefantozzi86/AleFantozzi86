@@ -5,6 +5,7 @@
  Alessandra Maria Fantozzi Mazzola
 </h2>
 <h3 align="center">Software Developer </h3>
+<h3 align="center">Optometrist</h3>
 <h4 align="center">
 ✉️ &nbsp;You can drop me an email at alefantozzi86@gmail.com 
  It will be a pleasure to talk with you!.
@@ -23,15 +24,21 @@
 - Unique combination of skills in full stack web development.
 - Ability to apply medical and scientific knowledge to technology projects related to visual health.
 - Passion for continuous learning and acquiring new technical skills.
-- Problem-solving skills and attention to detail developed through my experience in optometry.
+- Problem-solving skills and attention to detail developed through my experience.
 
-### Professional Experience:
-- **Kepler Optometry:** Developed a patient-centered approach to provide high-quality eye exams and recommend appropriate optical solutions. Acquired effective communication and teamwork skills.
-- **4Geeks Academy:** Full Stack Web Developer (Internship): Participated in the development of web applications using front-end and back-end technologies. Worked closely with an agile development team.
 
-### Education:
-- **4Geeks Academy:** Full Stack Web Development Bootcamp. Learned and applied the fundamentals of web development, working on individual and team projects.
-- **College of Optometrists of Venezuela:** Bachelor's Degree in Optometry. Acquired knowledge in visual health sciences and developed skills in diagnosing and treating visual problems.
+<h3 align="left">🛠 Languages and Tools:</h3>
+<p align="left">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png?20120221235433" alt="JS" width="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Python" width="45"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React" width="50"/>
+    <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png" alt="HTML" width="50"/>
+    <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" alt="CSS" width="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="45"/>
+    <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/flask-logo.png" alt="flask" width="70"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="sql" width="90"/>
+<!--     <img src="https://www.vhv.rs/dpng/d/499-4996069_postman-logo-circle-hd-png-download.png" alt="postman" width="45"/> -->
+</p>
 
 I'm excited for the opportunity to apply my skills and experience in Full Stack Web Development and my passion for visual health to a new professional challenge. If you're looking for someone with a unique perspective and a commitment to success, I would love to be part of your team!
 
