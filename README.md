@@ -5,11 +5,18 @@
  Alessandra Maria Fantozzi Mazzola
 </h2>
 <h3 align="center">Software Developer </h3>
-<h3 align="center">Optometrist</h3>
+<h4 align="center">Optometrist</h4>
 <h4 align="center">
 ✉️ &nbsp;You can drop me an email at alefantozzi86@gmail.com 
+</h4>
+<h4 align="center">🔌 Connect with me:</h4>
+<p align="center">
+<a href="https://www.linkedin.com/in/alessandra-fantozzi/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="pieromastro" height="30" width="30" /></a>
+</p>
+<h4 align="center">
  It will be a pleasure to talk with you!.
  </h4>
+ 
 
 ---
 
